@@ -1,0 +1,8 @@
+Cette application permet de calculer les mensualisations à payer pour une assistante maternelle.
+Elle prend en compte:
+-les frais d'entretien
+-prix des repas et gouters
+
+
+TODO:
+expliciter le calcul fait et les paramètres disponibles
